@@ -1,0 +1,2 @@
+# SQL_Croma_project
+In our case study from one of the stores of Croma-The Electronics Megastore, we have two tables: ‘Product Inventory’ and ‘Manufacturer’. The ‘Product Inventory’ table has four columns: ‘Product_Code’, ‘Product_Name’, ‘Product_Price’, and ‘Manufacturer_Code’. The ‘Manufacturers’ table, on the other hand, has two columns: ‘Manufacturer_Code’ and ‘Manufacturer_Name’. Both the tables are connected through the ‘Manufacturer_Name’ column, which serves as a foreign key in the ‘Product Inventory’ table and a primary key in the ‘Manufacturers’ table.
